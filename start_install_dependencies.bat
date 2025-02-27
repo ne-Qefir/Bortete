@@ -1,0 +1,1 @@
+pip install -r requerments.txt

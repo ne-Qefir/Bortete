@@ -1,0 +1,11 @@
+{
+  "text": "Качай музыку тут",
+  "entities": [
+    {
+      "type": "text_link",
+      "offset": 13,
+      "length": 3,
+      "url": "http://t.me/DaniRubot"
+    }
+  ]
+}
